@@ -8,4 +8,4 @@ timezone: Europe/London
 paginate: 8
 paginate_path: /page:num
 
-destination: ./kickoff-interactions
+destination: ./the-visual-web
