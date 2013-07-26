@@ -1,3 +1,15 @@
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before, .clearfix:after {
+  display: table;
+  content: " ";
+  zoom: 1;
+}
+.clearfix:after {
+  clear: both;
+}
+
 .dl-horizontal dt {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -2130,9 +2142,7 @@ a {
 }*/
 .masthead {
   background-color: #e67e22;
-  text-align: center;
   color: #fff;
-  padding: 60px 0;
 }
 .masthead a, .masthead h1, .masthead h2 {
   color: #fff;
@@ -2143,6 +2153,45 @@ a {
 }
 .masthead h2 {
   margin-top: 20px;
+}
+
+.masthead-home {
+  text-align: center;
+  padding: 60px 0;
+}
+.masthead-home .logo {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.masthead-home h2 {
+  margin-top: 20px;
+}
+
+.masthead-all {
+  background-color: #e67e22;
+  text-align: center;
+  color: #fff;
+  *zoom: 1;
+}
+.masthead-all:before, .masthead-all:after {
+  content: " ";
+  display: table;
+}
+.masthead-all:after {
+  clear: both;
+}
+.masthead-all .logo {
+  float: left;
+  margin: 0;
+  font-size: 30px;
+  font-size: 1.5rem;
+}
+.masthead-all .nav {
+  float: right;
+}
+.masthead-all .container {
+  padding: 0;
+  line-height: 50px;
 }
 
 .nav a {

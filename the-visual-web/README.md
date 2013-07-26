@@ -1,6 +1,6 @@
-#The Visual Web
+#[The Visual Web](http://tmwagency.github.io/the-visual-web)
 
-A list of interaction and animation patterns and techniques for the web.
+**A list of interaction and animation patterns and techniques for the web.**
 
 Tired of having to dig out good examples of interaction and animation techniques we wanted to show to others, The Visual Web (TVW) was born.
 

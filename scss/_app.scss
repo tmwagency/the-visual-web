@@ -50,9 +50,7 @@ a {
 // ================
 .masthead {
 	background-color: $orange;
-	text-align: center;
 	color: #fff;
-	padding: 60px 0;
 
 	a, h1, h2 {
 		color: #fff;
@@ -69,6 +67,42 @@ a {
 
 	a:after {
 		// font-size: 30px;
+	}
+}
+
+.masthead-home {
+	text-align: center;
+	padding: 60px 0;
+
+	.logo {
+		margin-top: 0;
+		margin-bottom: 20px;
+	}
+
+	h2 {
+		margin-top: 20px;
+	}
+}
+
+.masthead-all {
+	background-color: $orange;
+	text-align: center;
+	color: #fff;
+	@include clearfix();
+
+	.logo {
+		float: left;
+		margin: 0;
+		@include font-size(30);
+	}
+
+	.nav {
+		float: right;
+	}
+
+	.container {
+		padding: 0;
+		line-height: 50px;
 	}
 }
 

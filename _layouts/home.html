@@ -5,8 +5,10 @@
 		{% include masthead.html %}
 
 		<!--  === MAIN CONTENT ===  -->
-		<section id="main" role="main">
+		<section id="main" class="container" role="main">
 			{{ content }}
+
+			{% include footer.html %}
 		</section>
 
 {% include html_end.html %}
