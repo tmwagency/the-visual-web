@@ -123,7 +123,7 @@ a {
 
 	@include prefixer(animation, rainbowBg 100s linear infinite, webkit moz o ms spec);
 
-	&:hover {
+	&.c64 {
 		background: #6f74e9; /* Old browsers */
 		background: -moz-linear-gradient(top,  #6f74e9 0%, #6f74e9 7%, #d9d1ff 7%, #d9d1ff 16%, #d163a0 16%, #d163a0 25%, #787cab 25%, #787cab 32%, #d19ba8 32%, #bea998 39%, #d19ba8 39%, #bea998 46%, #dfd039 46%, #dfd039 52%, #a8faae 52%, #a8faae 58%, #7d922d 58%, #7d922d 64%, #68231c 64%, #68231c 70%, #bc6f9d 70%, #bc6f9d 77%, #a59aff 77%, #a59aff 83%, #d699ab 83%, #d699ab 88%, #99ff90 88%, #99ff90 96%, #6f74e9 96%, #6f74e9 100%); /* FF3.6+ */
 		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6f74e9), color-stop(7%,#6f74e9), color-stop(7%,#d9d1ff), color-stop(16%,#d9d1ff), color-stop(16%,#d163a0), color-stop(25%,#d163a0), color-stop(25%,#787cab), color-stop(32%,#787cab), color-stop(32%,#d19ba8), color-stop(39%,#bea998), color-stop(39%,#d19ba8), color-stop(46%,#bea998), color-stop(46%,#dfd039), color-stop(52%,#dfd039), color-stop(52%,#a8faae), color-stop(58%,#a8faae), color-stop(58%,#7d922d), color-stop(64%,#7d922d), color-stop(64%,#68231c), color-stop(70%,#68231c), color-stop(70%,#bc6f9d), color-stop(77%,#bc6f9d), color-stop(77%,#a59aff), color-stop(83%,#a59aff), color-stop(83%,#d699ab), color-stop(88%,#d699ab), color-stop(88%,#99ff90), color-stop(96%,#99ff90), color-stop(96%,#6f74e9), color-stop(100%,#6f74e9)); /* Chrome,Safari4+ */
@@ -138,7 +138,7 @@ a {
 		//@include prefixer(animation-direction, reverse, webkit moz o ms spec);
 
 		& .is-active {
-			//@include prefixer(animation, none, webkit moz o ms spec);
+			@include prefixer(animation, none, webkit moz o ms spec);
 		}
 	}
 
