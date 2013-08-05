@@ -3,17 +3,17 @@
   "title": "Kickoff",
   "description": "TMW's front-end framework",
   "version": "0.5.1",
-  "homepage": "https://github.com/tmwagency/kickoff",
+  "homepage": "https://github.com/tmwagency/the-visual-web",
   "author": {
     "name": "Zander Martineau",
     "url": "http://martineau.tv"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tmwagency/kickoff.git"
+    "url": "git://github.com/tmwagency/the-visual-web.git"
   },
   "bugs": {
-    "url": "https://github.com/tmwagency/kickoff/issues"
+    "url": "https://github.com/tmwagency/the-visual-web/issues"
   },
   "license": "MIT",
   "engines": {

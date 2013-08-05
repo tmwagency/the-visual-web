@@ -45,15 +45,112 @@ a {
 	@include user-select(none);
 }*/
 
+
+					@function makeList($n, $colors) {
+					  $a: $n / length($colors);
+					  $l: ();
+					  @each $c in $colors {
+					    @for $i from 1 through ceil($a) {
+					      $l: append($l, $c);
+					    }
+					  }
+					  @return $l;
+					}
+
+					@function defineSteps($n) {
+					  $result: null;
+					  @for $i from 1 through 100 {
+					    @if $i * $n < 50 {
+					      $result: $i;
+					    }
+					    @else {
+					      @return $result * $n;
+					    }
+					  }
+					}
+
+					@mixin colorAnimator($hue: 0, $type: box-shadow) {
+						//$ts: ();
+					  	//animating background
+					   	//$ts: hsl($hue, 100%, 55%);
+					  	//background: $ts;
+					  	//box-shadow:0 150px 200px red inset, 0 -190px 200px orange inset
+					  	@if $type == box-shadow {
+							$ts: ();
+							@for $i from 1 through 3 {
+							$ts: $ts, 0 $i * 120px 200px 0 hsl($hue + $i*15, 100%, 50% - $i) inset;
+							}
+							#{$type}: $ts;
+						} @else if $type == color {
+							$ts: hsl($hue, 100%, 40%);
+							#{$type}: $ts;
+						}
+					}
+
+					@mixin hover($index: 1, $cols: blue green yellow orange purple red) {
+					  $ts: ();
+					  $p: 1;
+					  $c: makeList(defineSteps(length($cols)), $cols);
+					  $colors: $c;
+
+					   @for $i from 1 through length($colors) {
+					    $index: if($index > length($colors) or $index == 0, 1, $index);
+					    $color: nth($colors, $index);
+
+					    $ts: $ts, $p*1px $p*1px 0 $color;
+
+					    $p: $p + 1; $index: $index + 1;
+					  }
+
+					  text-shadow: $ts;
+					}
+
+					@include keyframes(rainbowBg) {
+					  @for $i from 0 through 10 {
+					    #{$i*10%} {
+					      @include colorAnimator($i * 36, box-shadow);
+					    }
+					  }
+					}
+					@include keyframes(rainbowText) {
+					  @for $i from 0 through 10 {
+					    #{$i*10%} {
+					      @include colorAnimator($i * 36, color);
+					    }
+					  }
+					}
+
+					@include keyframes(hover) {
+					  @for $i from 0 through 50 {
+					    #{$i*2%} {
+					       @include hover($i);
+					    }
+					  }
+					}
+
 // ================
 // === MASTHEAD ===
 // ================
 .masthead {
-	background-color: $orange;
 	color: #fff;
+	//background: $orange;
+
+	@include prefixer(animation, rainbowBg 100s linear infinite, webkit moz o ms spec);
+
+	&:hover {
+		//@include prefixer(animation, hover 2s linear infinite, webkit moz o ms spec);
+		//@include prefixer(animation-direction, reverse, webkit moz o ms spec);
+
+		& .is-active {
+			//@include prefixer(animation, none, webkit moz o ms spec);
+		}
+	}
 
 	a, h1, h2 {
 		color: #fff;
+	}
+	h1, h2 {
+		text-shadow: 0px 2px 3px #555;
 	}
 
 	h1 {
@@ -64,9 +161,13 @@ a {
 	h2 {
 		margin-top: 20px;
 	}
+	a {
+		text-shadow: 0px 1px 3px #555;
+	}
 
-	a:after {
-		// font-size: 30px;
+	.is-active {
+		text-shadow: none;
+		@include prefixer(animation, rainbowText 100s linear infinite, webkit moz o ms spec);
 	}
 }
 
@@ -113,6 +214,7 @@ a {
 		font-weight: $bold-font-weight;
 		margin: 0 5px;
 		@include font-size(16);
+		background: rgba(0, 0, 0, 0.15);
 		@include border-radius(3px);
 		line-height: 1.3;
 
@@ -128,7 +230,7 @@ a {
 }
 
 .github-link {
-	background-color: darken($orange, 20%);
+	//background-color: darken($orange, 20%);
 }
 
 // Footer
