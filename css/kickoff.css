@@ -2314,1009 +2314,369 @@ a {
 
 @-webkit-keyframes rainbowText {
   0% {
-    color: #cc0000;
+    color: #cc6600;
   }
 
   10% {
-    color: #cc7a00;
+    color: #b8cc00;
   }
 
   20% {
-    color: #a3cc00;
+    color: #3dcc00;
   }
 
   30% {
-    color: #29cc00;
+    color: #00cc3d;
   }
 
   40% {
-    color: #00cc52;
+    color: #00ccb8;
   }
 
   50% {
-    color: #00cccc;
+    color: #0066cc;
   }
 
   60% {
-    color: #0052cc;
+    color: #1400cc;
   }
 
   70% {
-    color: #2900cc;
+    color: #8f00cc;
   }
 
   80% {
-    color: #a300cc;
+    color: #cc008f;
   }
 
   90% {
-    color: #cc007a;
+    color: #cc0014;
   }
 
   100% {
-    color: #cc0000;
+    color: #cc6600;
   }
 }
 
 @-moz-keyframes rainbowText {
   0% {
-    color: #cc0000;
+    color: #cc6600;
   }
 
   10% {
-    color: #cc7a00;
+    color: #b8cc00;
   }
 
   20% {
-    color: #a3cc00;
+    color: #3dcc00;
   }
 
   30% {
-    color: #29cc00;
+    color: #00cc3d;
   }
 
   40% {
-    color: #00cc52;
+    color: #00ccb8;
   }
 
   50% {
-    color: #00cccc;
+    color: #0066cc;
   }
 
   60% {
-    color: #0052cc;
+    color: #1400cc;
   }
 
   70% {
-    color: #2900cc;
+    color: #8f00cc;
   }
 
   80% {
-    color: #a300cc;
+    color: #cc008f;
   }
 
   90% {
-    color: #cc007a;
+    color: #cc0014;
   }
 
   100% {
-    color: #cc0000;
+    color: #cc6600;
   }
 }
 
 @-ms-keyframes rainbowText {
   0% {
-    color: #cc0000;
+    color: #cc6600;
   }
 
   10% {
-    color: #cc7a00;
+    color: #b8cc00;
   }
 
   20% {
-    color: #a3cc00;
+    color: #3dcc00;
   }
 
   30% {
-    color: #29cc00;
+    color: #00cc3d;
   }
 
   40% {
-    color: #00cc52;
+    color: #00ccb8;
   }
 
   50% {
-    color: #00cccc;
+    color: #0066cc;
   }
 
   60% {
-    color: #0052cc;
+    color: #1400cc;
   }
 
   70% {
-    color: #2900cc;
+    color: #8f00cc;
   }
 
   80% {
-    color: #a300cc;
+    color: #cc008f;
   }
 
   90% {
-    color: #cc007a;
+    color: #cc0014;
   }
 
   100% {
-    color: #cc0000;
+    color: #cc6600;
   }
 }
 
 @keyframes rainbowText {
   0% {
-    color: #cc0000;
+    color: #cc6600;
   }
 
   10% {
-    color: #cc7a00;
+    color: #b8cc00;
   }
 
   20% {
-    color: #a3cc00;
+    color: #3dcc00;
   }
 
   30% {
-    color: #29cc00;
+    color: #00cc3d;
   }
 
   40% {
-    color: #00cc52;
+    color: #00ccb8;
   }
 
   50% {
-    color: #00cccc;
+    color: #0066cc;
   }
 
   60% {
-    color: #0052cc;
+    color: #1400cc;
   }
 
   70% {
-    color: #2900cc;
+    color: #8f00cc;
   }
 
   80% {
-    color: #a300cc;
+    color: #cc008f;
   }
 
   90% {
-    color: #cc007a;
+    color: #cc0014;
   }
 
   100% {
-    color: #cc0000;
+    color: #cc6600;
   }
 }
 
 @-webkit-keyframes hover {
   0% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  2% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  4% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 blue;
-  }
-
-  6% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  8% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 0px;
   }
 
   10% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  12% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  14% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  16% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  18% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 150px;
   }
 
   20% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 green;
-  }
-
-  22% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  24% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  26% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  28% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
+    background-position: 0 300px;
   }
 
   30% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  32% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  34% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  36% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 yellow;
-  }
-
-  38% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 450px;
   }
 
   40% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  42% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  44% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  46% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  48% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 600px;
   }
 
   50% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  52% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 orange;
-  }
-
-  54% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  56% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  58% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
+    background-position: 0 750px;
   }
 
   60% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  62% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  64% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  66% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  68% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 purple;
+    background-position: 0 900px;
   }
 
   70% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  72% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  74% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  76% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  78% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
+    background-position: 0 1050px;
   }
 
   80% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  82% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  84% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 red;
-  }
-
-  86% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  88% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1200px;
   }
 
   90% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  92% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  94% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  96% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  98% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1350px;
   }
 
   100% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1500px;
   }
 }
 
 @-moz-keyframes hover {
   0% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  2% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  4% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 blue;
-  }
-
-  6% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  8% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 0px;
   }
 
   10% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  12% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  14% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  16% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  18% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 150px;
   }
 
   20% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 green;
-  }
-
-  22% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  24% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  26% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  28% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
+    background-position: 0 300px;
   }
 
   30% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  32% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  34% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  36% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 yellow;
-  }
-
-  38% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 450px;
   }
 
   40% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  42% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  44% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  46% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  48% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 600px;
   }
 
   50% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  52% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 orange;
-  }
-
-  54% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  56% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  58% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
+    background-position: 0 750px;
   }
 
   60% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  62% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  64% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  66% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  68% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 purple;
+    background-position: 0 900px;
   }
 
   70% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  72% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  74% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  76% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  78% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
+    background-position: 0 1050px;
   }
 
   80% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  82% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  84% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 red;
-  }
-
-  86% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  88% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1200px;
   }
 
   90% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  92% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  94% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  96% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  98% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1350px;
   }
 
   100% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1500px;
   }
 }
 
 @-ms-keyframes hover {
   0% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  2% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  4% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 blue;
-  }
-
-  6% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  8% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 0px;
   }
 
   10% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  12% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  14% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  16% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  18% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 150px;
   }
 
   20% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 green;
-  }
-
-  22% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  24% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  26% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  28% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
+    background-position: 0 300px;
   }
 
   30% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  32% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  34% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  36% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 yellow;
-  }
-
-  38% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 450px;
   }
 
   40% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  42% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  44% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  46% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  48% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 600px;
   }
 
   50% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  52% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 orange;
-  }
-
-  54% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  56% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  58% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
+    background-position: 0 750px;
   }
 
   60% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  62% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  64% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  66% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  68% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 purple;
+    background-position: 0 900px;
   }
 
   70% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  72% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  74% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  76% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  78% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
+    background-position: 0 1050px;
   }
 
   80% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  82% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  84% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 red;
-  }
-
-  86% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  88% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1200px;
   }
 
   90% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  92% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  94% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  96% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  98% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1350px;
   }
 
   100% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1500px;
   }
 }
 
 @keyframes hover {
   0% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  2% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  4% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 blue;
-  }
-
-  6% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  8% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 0px;
   }
 
   10% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  12% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  14% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  16% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 green, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 yellow, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 orange, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 purple, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 red, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
-  }
-
-  18% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 green, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 yellow, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 orange, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 purple, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 red, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 blue;
+    background-position: 0 150px;
   }
 
   20% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 green, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 yellow, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 orange, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 purple, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 red, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 blue, 48px 48px 0 green;
-  }
-
-  22% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 green, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 yellow, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 orange, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 purple, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 red, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 blue, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  24% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 green, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 yellow, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 orange, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 purple, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 red, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 blue, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  26% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 green, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 yellow, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 orange, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 purple, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 red, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 blue, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  28% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 green, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 yellow, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 orange, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 purple, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 red, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 blue, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
+    background-position: 0 300px;
   }
 
   30% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 green, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 yellow, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 orange, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 purple, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 red, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 blue, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  32% {
-    text-shadow: 1px 1px 0 green, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 yellow, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 orange, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 purple, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 red, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 blue, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  34% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 yellow, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 orange, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 purple, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 red, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 blue, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 green;
-  }
-
-  36% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 yellow, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 orange, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 purple, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 red, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 blue, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 green, 48px 48px 0 yellow;
-  }
-
-  38% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 yellow, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 orange, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 purple, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 red, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 blue, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 green, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 450px;
   }
 
   40% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 yellow, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 orange, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 purple, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 red, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 blue, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 green, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  42% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 yellow, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 orange, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 purple, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 red, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 blue, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 green, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  44% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 yellow, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 orange, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 purple, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 red, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 blue, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 green, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  46% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 yellow, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 orange, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 purple, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 red, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 blue, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 green, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  48% {
-    text-shadow: 1px 1px 0 yellow, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 orange, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 purple, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 red, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 blue, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 green, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
+    background-position: 0 600px;
   }
 
   50% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 orange, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 purple, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 red, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 blue, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 green, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 yellow;
-  }
-
-  52% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 orange, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 purple, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 red, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 blue, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 green, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 yellow, 48px 48px 0 orange;
-  }
-
-  54% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 orange, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 purple, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 red, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 blue, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 green, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 yellow, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  56% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 orange, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 purple, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 red, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 blue, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 green, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 yellow, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  58% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 orange, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 purple, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 red, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 blue, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 green, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 yellow, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
+    background-position: 0 750px;
   }
 
   60% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 orange, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 purple, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 red, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 blue, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 green, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 yellow, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  62% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 orange, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 purple, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 red, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 blue, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 green, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 yellow, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  64% {
-    text-shadow: 1px 1px 0 orange, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 purple, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 red, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 blue, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 green, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 yellow, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  66% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 purple, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 red, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 blue, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 green, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 yellow, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 orange;
-  }
-
-  68% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 purple, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 red, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 blue, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 green, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 yellow, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 orange, 48px 48px 0 purple;
+    background-position: 0 900px;
   }
 
   70% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 purple, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 red, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 blue, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 green, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 yellow, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 orange, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  72% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 purple, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 red, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 blue, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 green, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 yellow, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 orange, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  74% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 purple, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 red, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 blue, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 green, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 yellow, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 orange, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  76% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 purple, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 red, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 blue, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 green, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 yellow, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 orange, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  78% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 purple, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 red, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 blue, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 green, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 yellow, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 orange, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
+    background-position: 0 1050px;
   }
 
   80% {
-    text-shadow: 1px 1px 0 purple, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 red, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 blue, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 green, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 yellow, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 orange, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  82% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 red, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 blue, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 green, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 yellow, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 orange, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 purple;
-  }
-
-  84% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 red, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 blue, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 green, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 yellow, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 orange, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 purple, 48px 48px 0 red;
-  }
-
-  86% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 red, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 blue, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 green, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 yellow, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 orange, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 purple, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  88% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 red, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 blue, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 green, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 yellow, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 orange, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 purple, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1200px;
   }
 
   90% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 red, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 blue, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 green, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 yellow, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 orange, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 purple, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  92% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 red, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 blue, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 green, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 yellow, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 orange, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 purple, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  94% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 red, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 blue, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 green, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 yellow, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 orange, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 purple, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  96% {
-    text-shadow: 1px 1px 0 red, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 blue, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 green, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 yellow, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 orange, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 purple, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
-  }
-
-  98% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1350px;
   }
 
   100% {
-    text-shadow: 1px 1px 0 blue, 2px 2px 0 blue, 3px 3px 0 blue, 4px 4px 0 blue, 5px 5px 0 blue, 6px 6px 0 blue, 7px 7px 0 blue, 8px 8px 0 blue, 9px 9px 0 green, 10px 10px 0 green, 11px 11px 0 green, 12px 12px 0 green, 13px 13px 0 green, 14px 14px 0 green, 15px 15px 0 green, 16px 16px 0 green, 17px 17px 0 yellow, 18px 18px 0 yellow, 19px 19px 0 yellow, 20px 20px 0 yellow, 21px 21px 0 yellow, 22px 22px 0 yellow, 23px 23px 0 yellow, 24px 24px 0 yellow, 25px 25px 0 orange, 26px 26px 0 orange, 27px 27px 0 orange, 28px 28px 0 orange, 29px 29px 0 orange, 30px 30px 0 orange, 31px 31px 0 orange, 32px 32px 0 orange, 33px 33px 0 purple, 34px 34px 0 purple, 35px 35px 0 purple, 36px 36px 0 purple, 37px 37px 0 purple, 38px 38px 0 purple, 39px 39px 0 purple, 40px 40px 0 purple, 41px 41px 0 red, 42px 42px 0 red, 43px 43px 0 red, 44px 44px 0 red, 45px 45px 0 red, 46px 46px 0 red, 47px 47px 0 red, 48px 48px 0 red;
+    background-position: 0 1500px;
   }
 }
 
@@ -3327,6 +2687,30 @@ a {
   -o-animation: rainbowBg 100s linear infinite;
   -ms-animation: rainbowBg 100s linear infinite;
   animation: rainbowBg 100s linear infinite;
+}
+.masthead:hover {
+  background: #6f74e9;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #6f74e9 0%, #6f74e9 7%, #d9d1ff 7%, #d9d1ff 16%, #d163a0 16%, #d163a0 25%, #787cab 25%, #787cab 32%, #d19ba8 32%, #bea998 39%, #d19ba8 39%, #bea998 46%, #dfd039 46%, #dfd039 52%, #a8faae 52%, #a8faae 58%, #7d922d 58%, #7d922d 64%, #68231c 64%, #68231c 70%, #bc6f9d 70%, #bc6f9d 77%, #a59aff 77%, #a59aff 83%, #d699ab 83%, #d699ab 88%, #99ff90 88%, #99ff90 96%, #6f74e9 96%, #6f74e9 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6f74e9), color-stop(7%, #6f74e9), color-stop(7%, #d9d1ff), color-stop(16%, #d9d1ff), color-stop(16%, #d163a0), color-stop(25%, #d163a0), color-stop(25%, #787cab), color-stop(32%, #787cab), color-stop(32%, #d19ba8), color-stop(39%, #bea998), color-stop(39%, #d19ba8), color-stop(46%, #bea998), color-stop(46%, #dfd039), color-stop(52%, #dfd039), color-stop(52%, #a8faae), color-stop(58%, #a8faae), color-stop(58%, #7d922d), color-stop(64%, #7d922d), color-stop(64%, #68231c), color-stop(70%, #68231c), color-stop(70%, #bc6f9d), color-stop(77%, #bc6f9d), color-stop(77%, #a59aff), color-stop(83%, #a59aff), color-stop(83%, #d699ab), color-stop(88%, #d699ab), color-stop(88%, #99ff90), color-stop(96%, #99ff90), color-stop(96%, #6f74e9), color-stop(100%, #6f74e9));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #6f74e9 0%, #6f74e9 7%, #d9d1ff 7%, #d9d1ff 16%, #d163a0 16%, #d163a0 25%, #787cab 25%, #787cab 32%, #d19ba8 32%, #bea998 39%, #d19ba8 39%, #bea998 46%, #dfd039 46%, #dfd039 52%, #a8faae 52%, #a8faae 58%, #7d922d 58%, #7d922d 64%, #68231c 64%, #68231c 70%, #bc6f9d 70%, #bc6f9d 77%, #a59aff 77%, #a59aff 83%, #d699ab 83%, #d699ab 88%, #99ff90 88%, #99ff90 96%, #6f74e9 96%, #6f74e9 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #6f74e9 0%, #6f74e9 7%, #d9d1ff 7%, #d9d1ff 16%, #d163a0 16%, #d163a0 25%, #787cab 25%, #787cab 32%, #d19ba8 32%, #bea998 39%, #d19ba8 39%, #bea998 46%, #dfd039 46%, #dfd039 52%, #a8faae 52%, #a8faae 58%, #7d922d 58%, #7d922d 64%, #68231c 64%, #68231c 70%, #bc6f9d 70%, #bc6f9d 77%, #a59aff 77%, #a59aff 83%, #d699ab 83%, #d699ab 88%, #99ff90 88%, #99ff90 96%, #6f74e9 96%, #6f74e9 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #6f74e9 0%, #6f74e9 7%, #d9d1ff 7%, #d9d1ff 16%, #d163a0 16%, #d163a0 25%, #787cab 25%, #787cab 32%, #d19ba8 32%, #bea998 39%, #d19ba8 39%, #bea998 46%, #dfd039 46%, #dfd039 52%, #a8faae 52%, #a8faae 58%, #7d922d 58%, #7d922d 64%, #68231c 64%, #68231c 70%, #bc6f9d 70%, #bc6f9d 77%, #a59aff 77%, #a59aff 83%, #d699ab 83%, #d699ab 88%, #99ff90 88%, #99ff90 96%, #6f74e9 96%, #6f74e9 100%);
+  /* IE10+ */
+  background: linear, to bottom, #6f74e9 0%, #6f74e9 7%, #d9d1ff 7%, #d9d1ff 16%, #d163a0 16%, #d163a0 25%, #787cab 25%, #787cab 32%, #d19ba8 32%, #bea998 39%, #d19ba8 39%, #bea998 46%, #dfd039 46%, #dfd039 52%, #a8faae 52%, #a8faae 58%, #7d922d 58%, #7d922d 64%, #68231c 64%, #68231c 70%, #bc6f9d 70%, #bc6f9d 77%, #a59aff 77%, #a59aff 83%, #d699ab 83%, #d699ab 88%, #99ff90 88%, #99ff90 96%, #6f74e9 96%, #6f74e9 100%;
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6f74e9', endColorstr='#6f74e9',GradientType=0 );
+  /* IE6-9 */
+  background-size: 100px 150px;
+  -webkit-animation: hover 4s linear infinite;
+  -moz-animation: hover 4s linear infinite;
+  -o-animation: hover 4s linear infinite;
+  -ms-animation: hover 4s linear infinite;
+  animation: hover 4s linear infinite;
 }
 .masthead a, .masthead h1, .masthead h2 {
   color: #fff;
