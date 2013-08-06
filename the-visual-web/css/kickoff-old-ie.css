@@ -1,3 +1,15 @@
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before, .clearfix:after {
+  display: table;
+  content: " ";
+  zoom: 1;
+}
+.clearfix:after {
+  clear: both;
+}
+
 .dl-horizontal dt {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -230,7 +242,7 @@ table {
   border-spacing: 0;
 }
 
-.container {
+.g-container {
   padding-left: 0px;
   padding-right: 0px;
   width: 95%;
@@ -238,26 +250,26 @@ table {
   margin: 0 auto;
 }
 
-.row {
+.g-row {
   width: 100%;
   margin: 0 auto;
   *zoom: 1;
 }
-.row:before, .row:after {
+.g-row:before, .g-row:after {
   content: " ";
   display: table;
 }
-.row:after {
+.g-row:after {
   clear: both;
 }
-.row .row {
+.g-row .g-row {
   min-width: 0;
 }
-.row .row .col {
+.g-row .g-row .g-col {
   padding: 0;
 }
 
-.col {
+.g-col {
   margin-left: 2.22222222%;
   padding: 10px;
   float: left;
@@ -269,65 +281,65 @@ table {
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
-.col:first-child {
+.g-col:first-child {
   margin-left: 0;
 }
-.col + .col:last-child {
+.g-col + .g-col:last-child {
   float: right;
 }
-.col + .col.end {
+.g-col + .g-col.g-end {
   float: left;
 }
 
-.span1, .mq-alpha-resize-to1 {
+.g-span1, .g-mq-alpha-resize-to1 {
   width: 6.2962963%;
 }
 
-.span2, .mq-alpha-resize-to2 {
+.g-span2, .g-mq-alpha-resize-to2 {
   width: 14.81481481%;
 }
 
-.span3, .mq-alpha-resize-to3 {
+.g-span3, .g-mq-alpha-resize-to3 {
   width: 23.33333333%;
 }
 
-.span4, .mq-alpha-resize-to4 {
+.g-span4, .g-mq-alpha-resize-to4 {
   width: 31.85185185%;
 }
 
-.span5, .mq-alpha-resize-to5 {
+.g-span5, .g-mq-alpha-resize-to5 {
   width: 40.37037037%;
 }
 
-.span6, .mq-alpha-resize-to6 {
+.g-span6, .g-mq-alpha-resize-to6 {
   width: 48.88888889%;
 }
 
-.span7, .mq-alpha-resize-to7 {
+.g-span7, .g-mq-alpha-resize-to7 {
   width: 57.40740741%;
 }
 
-.span8, .mq-alpha-resize-to8 {
+.g-span8, .g-mq-alpha-resize-to8 {
   width: 65.92592593%;
 }
 
-.span9, .mq-alpha-resize-to9 {
+.g-span9, .g-mq-alpha-resize-to9 {
   width: 74.44444444%;
 }
 
-.span10, .mq-alpha-resize-to10 {
+.g-span10, .g-mq-alpha-resize-to10 {
   width: 82.96296296%;
 }
 
-.span11, .mq-alpha-resize-to11 {
+.g-span11, .g-mq-alpha-resize-to11 {
   width: 91.48148148%;
 }
 
-.span12, .mq-alpha-resize-to12 {
+.g-span12, .g-mq-alpha-resize-to12 {
   width: 100%;
 }
 
-.split .col, .shunt {
+.g-split .g-col, .g-shunt {
   float: none;
   margin-left: 0;
   min-height: 1px;
@@ -336,15 +348,15 @@ table {
   clear: both;
 }
 
-.mq-beta-end {
+.g-mq-beta-end {
   float: right;
 }
 
-.mq-beta-end {
+.g-mq-beta-end {
   float: left;
 }
 
-.centered.col, .centred.col {
+.g-centered.g-col, .g-centred.g-col {
   float: none;
   margin: 0 auto;
 }
@@ -467,6 +479,9 @@ a:hover {
 }
 a:active {
   color: #19232d;
+}
+h1 a, h2 a, h3 a {
+  border-bottom: 1px solid #34495e;
 }
 
 p a:link {
@@ -2084,10 +2099,10 @@ html {
 }
 
 a {
-  -webkit-transition: all 300ms ease-in-out;
-  -moz-transition: all 300ms ease-in-out;
-  -o-transition: all 300ms ease-in-out;
-  transition: all 300ms ease-in-out;
+  -webkit-transition: all 250ms ease-in-out;
+  -moz-transition: all 250ms ease-in-out;
+  -o-transition: all 250ms ease-in-out;
+  transition: all 250ms ease-in-out;
 }
 
 .container {
@@ -2105,7 +2120,7 @@ a {
   transition: border-color 250ms ease;
 }
 .container p a:link:hover, .container li a:link:hover {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #34495e;
   -webkit-transition: border-color 250ms ease;
   -moz-transition: border-color 250ms ease;
   -o-transition: border-color 250ms ease;
@@ -2793,7 +2808,7 @@ a {
   border-radius: 3px;
 }
 .nav a:hover {
-  background-color: #bf6516;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 .nav a.is-active {
   background-color: #fff;
@@ -2813,6 +2828,23 @@ a {
 
 .contribute {
   margin-bottom: 20px;
+}
+
+.nav--index .g-col {
+  position: relative;
+  min-height: 200px;
+  background: #34495e;
+  color: #fff;
+  text-align: center;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.nav--index--description {
+  position: absolute;
+  left: 100%;
 }
 
 .stack-logos {

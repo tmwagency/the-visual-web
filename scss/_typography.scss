@@ -150,6 +150,12 @@ a {
 		color: $color-link-active;
 		//text-decoration: underline;
 	}
+
+	h1 &,
+	h2 &,
+	h3 & {
+		border-bottom: 1px solid $color-link-default;
+	}
 }
 
 p a:link {
